@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Ziyang Xiao"
+name                     : &name "Jiani Yang"
 description              : &description "Ph.D. student at Zhejiang University"
-url                      : https://xzymustbexzy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yplusone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xzymustbexzy/xzymustbexzy.github.io"
+repository               : "yplusone/yplusone.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziyang Xiao"
+  name             : "Jiani Yang"
   avatar           : "profile.png"
-  bio              : ""Once again, better than ever.""
+  bio              : "All is well"
   location         : "Hangzhou, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=uSb7TOAAAAAJ"
-  email            : "xiaoziyang@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=ZTf_EpoAAAAJ"
+  email            : "jianiyang_cs@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -93,14 +93,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xzymustbexzy"
+  github           : "yplusone"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0009-0003-9859-9495"
+  orcid            : "https://orcid.org/0009-0005-8290-7267"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
