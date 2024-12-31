@@ -12,26 +12,26 @@ Hello, I am a Fourth-year Ph.D. student in the School of Computer Science at Zhe
 
 Publications
 ======
-- VLDB 2023: DoveDB: A Declarative and Low-Latency Video Database
-- AAAI 2023: Solving Large-Scale Travelling Salesman Problem with Progressive Distillation
-- KAIS 2022: A Deep Reinforcement Learning Agent for Geometry Online Tutoring
+- **Sigmod 2024: Rethinking Learned Cost Models: Why Start from Scratch?**
+[[paper]](https://dl.acm.org/doi/10.1145/3626769#artseq-00001)[[code]](https://github.com/yplusone/ParamTree)[[slides]](files/ParamTree_4.0.pptx)[[poster]](files/poster.pdf)
+
+  Researched and developed ParamTree, a non-intrusive tool that optimizes DBMS cost models by using customized decision tree models to predict optimal hyperparameters.
 
 Education
 ======
-- [Sep. 2023 - Present] Zhejiang University, Ph.D student in Computer Science (CS)
-- [Sep. 2020 – Jun. 2023] Zhejiang University, Master student in Computer Science (CS) 
-- [Sep. 2016 – Jun. 2020] Southwest Jiaotong University, B.S. in Software Engineering (SE)
+- [Sep. 2021 - Present] Zhejiang University, Ph.D student in Computer Science (CS)
+- [Sep. 2017 – Jun. 2021] Zhejiang University, B.S. in Software Engineering (SE)
 
 Internship
 ======
-- [Apr. 2023 -- Aug. 2023] Visiting Scholar, Singapore University of Technology and Design (SUTD)
-- [Feb. 2022 – Mar. 2023] Academic Intern, Alibaba Group
-- [Aug. 2018 – Nov. 2018] Machine Learning Developer Intern, IBM (China) Co., Ltd.
+- [June 2024 -- Present] Intern, Huawei 2012 Labs
+- [Nov 2021 - July 2023] Academic Intern, Alibaba Group
 
 Competitions
 ======
-- [Jan. 2021] First place in the CCF Big Data & Computing Intelligence Contest, rank 1/2582
+- [Jan. 2019] Meritorious Winner of Mathematical Contest in Modeling (International Award)
+- [Jan. 2020] First Prize in the National Mathematical Modeling Competition
 
 Awards
 ======
-- [Dec. 2019] National Scholarship for the 2018-2019 academic year.
+- [June. 2021] Outstanding Graduate Student of Zhejiang University.
