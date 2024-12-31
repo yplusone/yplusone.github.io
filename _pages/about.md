@@ -12,7 +12,7 @@ Hello, I am a Fourth-year Ph.D. student in the School of Computer Science at Zhe
 
 Projects
 ======
-- **Adaptive Memory Management for HTAP Systems** [Technical Report](files/tech_report.pdf)
+- **Adaptive Memory Management for HTAP Systems** [Technical Report](files/TwistedTwin_tech_report.pdf)
 
   Designed an adaptive memory management approach for lightweight HTAP systems, improving OLAP performance by over 70\% while meeting OLTP requirements
 
