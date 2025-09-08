@@ -10,11 +10,6 @@ redirect_from:
 
 Hello, I am a Fourth-year Ph.D. student in the School of Computer Science at Zhejiang University. My areas of interest include query optimization, AI4DB, HTAP systems. I welcome any opportunities to engage in discussions and collaborations.
 
-Projects
-======
-- **Adaptive Memory Management for HTAP Systems** [Technical Report](files/TwistedTwin_tech_report.pdf)
-
-  Designed an adaptive memory management approach for lightweight HTAP systems, improving OLAP performance by over 70\% while meeting OLTP requirements
 
 Publications
 ======
@@ -22,6 +17,10 @@ Publications
 [[paper]](https://dl.acm.org/doi/10.1145/3626769#artseq-00001)[[code]](https://github.com/yplusone/ParamTree)[[slides]](files/ParamTree_4.0.pptx)[[poster]](files/poster.pdf)
 
   Researched and developed ParamTree, a non-intrusive tool that optimizes DBMS cost models by using customized decision tree models to predict optimal hyperparameters.
+
+- **VLDB 2025: Twisted Twin: A Collaborative and Competitive Memory Management Approach in HTAP Systems** [[paper]](files/yang_vldb_htap.pdf)[Technical Report](files/TwistedTwin_tech_report.pdf)[[slides]](files/htap_yang.pptx)[[poster]](files/htap_poster.pdf)
+
+  Designed an adaptive memory management approach for lightweight HTAP systems, improving OLAP performance by over 70\% while meeting OLTP requirements
 
 Education
 ======
